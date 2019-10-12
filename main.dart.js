@@ -43538,7 +43538,7 @@ Q.Os.prototype={}
 F.D0.prototype={
 R:function(a){return new S.n9(new K.EJ(null),X.I2(C.S,"GoogleSansRegular",C.r),!1,null)}}
 K.EJ.prototype={
-xZ:function(){return H.e([K.ni(C.dv,new K.EK(),"releases"),K.ni(C.dv,new K.EL(),"roster"),K.ni(C.dv,new K.EM(),"contact us")],[N.ag])},
+xZ:function(){return H.e([K.ni(C.dv,new K.EK(),"Home"),K.ni(C.dv,new K.EL(),"Roster"),K.ni(C.dv,new K.EM(),"Contact Us")],[N.ag])},
 R:function(a){var u,t,s,r,q,p,o,n=null,m=F.bz(a,!1).a.a
 if(typeof m!=="number")return m.K()
 if(m<800){m=this.xZ()
@@ -43559,12 +43559,12 @@ if(typeof o!=="number")return o.p()
 q=B.t9(T.ym(H.e([new K.D7(s,n),new T.dS(n,r*0.1,n,n),new K.EH(p,n),new T.dS(n,o*0.2,n,n),new K.H3(n)],q),C.aj,C.aK,C.a3),n)
 return B.t9(new M.l9(new E.pO(0,C.r,new Q.af(1/0,56),n),new E.GK(!0,new G.m7(new V.aR(t,t,t,t),q,C.ai,u,n),n),m,C.r,n),n)}}
 K.EK.prototype={
-$0:function(){C.U.hd(window,"http://www.knd.world","Home")},
+$0:function(){C.U.hd(window,"http://knd.world/","Home")},
 $C:"$0",
 $R:0,
 $S:0}
 K.EL.prototype={
-$0:function(){C.U.hd(window,"http://www.knd.world/roster","Roster")},
+$0:function(){C.U.hd(window,"http://www.knd.world/roster/","Roster")},
 $C:"$0",
 $R:0,
 $S:0}
